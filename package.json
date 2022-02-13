@@ -7,7 +7,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "expect": "^24.9.0",
     "glob": "^7.1.4",
     "jsonschema": "^1.2.4",
