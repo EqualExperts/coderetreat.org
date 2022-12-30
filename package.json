@@ -11,7 +11,7 @@
     "expect": "^24.9.0",
     "glob": "^7.1.4",
     "jsonschema": "^1.2.4",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "moment-timezone": "^0.5.26",
     "yamljs": "^0.3.0"
   },
